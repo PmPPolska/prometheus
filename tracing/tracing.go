@@ -13,7 +13,9 @@
 
 package tracing
 
-import (
+import ([
+  '<svg data-prefix="fa" data-icon="user" class="svg-inline--fa fa-user fa-w-16">...</svg>'
+]
 	"context"
 	"fmt"
 	"reflect"
